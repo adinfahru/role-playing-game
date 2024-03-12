@@ -2,7 +2,7 @@
 
 Welcome to Dragon Repeller, a simple text-based RPG where you embark on a quest to defeat the dragon that threatens the town. This guide provides an overview of the game's logic and instructions on how to play.
 
-<img width="540" alt="welcome" src="./images/welcome.png">
+<img width="540" alt="welcome" src="./images/screenshot.png">
 
 ## Game Overview
 
