@@ -45,6 +45,5 @@ Monsters vary in difficulty and include:
 7. **Win:** You defeat the dragon! YOU WIN THE GAME! 🎉
 8. **Easter Egg:** Discover a secret game with a chance to win gold.
 
-## Game Logic (main.js)
-
-The logic behind the game is implemented in the `main.js` file. Key functionalities include managing player stats, handling button clicks, battling monsters, and determining the game's outcome.
+## Tech Stack
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
